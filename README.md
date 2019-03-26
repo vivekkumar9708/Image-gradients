@@ -1,0 +1,2 @@
+# Image-gradients
+Image gradients can be used to measure directional intensity.Image gradients are often utilized in maps and other visual representations of data in order to convey additional information.Image gradients can be used to extract information from images. Gradient images are created from the original image (generally by convolving with a filter, one of the simplest being the Sobel filter) for this purpose. Each pixel of a gradient image measures the change in intensity of that same point in the original image, in a given direction. 
