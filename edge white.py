@@ -2,7 +2,7 @@
 """
 Created on Sat Feb  2 10:51:30 2019
 
-@author: Aditi
+@author: Vivek Kumar Jha
 """
 
 import cv2
